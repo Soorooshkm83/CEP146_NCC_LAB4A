@@ -1,0 +1,164 @@
+Q1:
+Scenario 1: Declining a party invitation
+Poor Prompt
+
+“Write an email saying I can’t come to the party.”
+
+Good Prompt
+
+“Write a polite and friendly email thanking someone for inviting me to their party, but saying I can’t attend.”
+
+Comparison
+
+Poor Prompt: short, unclear, might sound rude
+
+Scenario 2:
+Simple Prompt
+
+“Explain photosynthesis for children.
+Make it simple.
+Format: bullet points + a short example story + describe a diagram I can draw.”
+
+Scenario 3:
+Simple Prompt
+
+“I have chicken, rice, onions, garlic, tomatoes, and spinach.
+I can’t eat dairy. I’m a beginner cook.
+Give me easy recipe ideas with simple steps.”
+
+Q2:
+Scenario A: Event planning
+Constraints & Requirements
+
+Budget: $500 total
+
+Number of people: 20
+
+Type of event: team-building
+
+Must include: venue ideas, food options, activities
+Prompt 1 – Generate Event Ideas
+
+“Plan a team-building event for 20 people with a $500 budget. Give me 3–5 simple ideas, including activity, approximate cost, and what materials are needed.”
+
+Prompt 2 – Venue Options
+
+“Suggest affordable or free venues for a 20-person team-building event. Include options like parks, meeting rooms, community centers, or company office spaces.”
+
+Prompt 3 – Activity Planning
+
+“Give me 5 team-building activities that cost little or no money. Include a short description, how long each activity takes, and what materials we need.”
+
+Prompt 4 – Budget Breakdown
+
+“Make a simple budget plan for the event with a $500 limit. Include food, drinks, materials, and any venue costs.”
+
+Prompt 5 – Iterative Refinement
+
+“Here’s the idea I like most: [insert idea]. Improve the plan, suggest cheaper alternatives, and make the schedule more organized.”
+
+Chain-of-Thought Use
+
+Start with broad ideas
+
+Narrow down to venue
+
+Then activities
+
+Then budget
+
+Finally refine the chosen plan
+
+scenario B:
+Constraints & Requirements
+
+You are a beginner
+
+Using a phone camera
+
+Goal: improve social media photos
+
+Want learning in simple steps
+
+Prefer tutorials, checklists, and practice tasks
+
+Prompt 1 – Skill Assessment
+
+“Ask me 5 questions to understand my photography level so you can give me personalized tips for social media photos.”
+
+Prompt 2 – Basic Tutorial
+
+“Explain the basics of photography for beginners using a phone camera. Make it simple. Use bullet points.”
+
+Prompt 3 – Checklist
+
+“Make a quick checklist I can use before taking a photo. Keep it short and easy to follow.”
+
+Prompt 4 – Practice Exercises
+
+“Give me 5 beginner-friendly practice exercises to improve my lighting, angles, and composition.”
+
+Prompt 5 – Personalized Tips
+
+“I mostly take pictures of [portraits/food/selfies/etc.]. Give me 10 simple tips to improve that type of photo.”
+
+Prompt 6 – Learning Plan
+
+“Create a 2-week practice plan to improve my phone photography. One small task per day.”
+
+Chain-of-Thought Use
+
+Start with skill check
+
+Learn the basics
+
+Do practice tasks
+
+Get personalized advice
+
+Build a learning plan
+
+Scenario C:
+Constraints & Requirements
+
+Budget: limited (you choose an amount, e.g., $300)
+
+Updating living room
+
+Want ideas that are creative but affordable
+
+Must include: colour ideas, furniture advice, decoration options
+
+Prompt 1 – Describe the Room
+
+“Ask me questions about my living room so you can give personalized improvement ideas. Ask about size, colours, lighting, and budget.”
+
+Prompt 2 – Theme Options
+
+“Suggest 3–4 design styles that match a low budget. Keep explanations simple and include colour palettes.”
+
+Prompt 3 – Budget-Friendly Changes
+
+“Give me cheap ways to improve my living room. Include ideas for lighting, furniture rearrangement, and decorations under $50.”
+
+Prompt 4 – Compare Options
+
+“Compare these two design ideas: [insert two options]. Tell me which one fits my room better and why.”
+
+Prompt 5 – Shopping List
+
+“Create a shopping list for the design style I choose. Keep everything within my budget.”
+
+Chain-of-Thought Use
+
+Start by gathering info
+
+Get themes
+
+Explore cheap upgrades
+
+Compare choices
+
+Finalize with a shopping list
+
+THANK YOU PROFESSOR!!
